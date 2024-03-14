@@ -860,7 +860,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/3371438472/tvbox/master/eval-yang.txt",
+      "url": "https://github.com/3371438472/tvbox/edit/master/eval-yang.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -869,7 +869,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/3371438472/tvbox/master/eval-yang.txt",
+      "url": "https://github.com/3371438472/tvbox/edit/master/eval-yang.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
