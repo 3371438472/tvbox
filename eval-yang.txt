@@ -1,5 +1,3 @@
-📡百视有线#genre#
-
 📼电影持续更新,#genre#
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8#https://v.cdnlz12.com/20240215/11573_4cb789fb/index.m3u8#https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/index.m3u8
 破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn20.com/20240216/17014_96791511/index.m3u8#https://ukzy.ukubf3.com/20240216/MYLiIuPk/2000kb/hls/index.m3u8#https://ukzy.ukubf3.com/20240216/MYLiIuPk/index.m3u8
@@ -3092,8 +3090,6 @@ GRTN文化频道,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
 江西龙虎山山涧栈道,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 
-
-
 🎬电影频道,#genre#
 YY电影台01,http://mmitv.top/pltv/yy.php?id=1382749892
 YY电影台02,http://mmitv.top/pltv/yy.php?id=1382735573
@@ -3456,6 +3452,7 @@ UFC格斗㉑,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926
 师兄撞鬼,https://v3.dious.cc/20220329/VxLeWBv1/index.m3u8
 千王之王,https://ukzy.ukubf4.com/20220331/8qlDdjip/index.m3u8
 大宅menhttps://epg.112114.xyz/huya/11352936
+
 📦裸眼3D,#genre#
 生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
 电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
@@ -3497,6 +3494,7 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+
 📼春晚小品,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
