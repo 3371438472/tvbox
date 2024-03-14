@@ -860,7 +860,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://github.com/3371438472/tvbox/blob/1007ed9cbc07941c7407d241b41316184dfc56bf/eval-yang.txt",
+      "url": ".eval-yang.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -869,7 +869,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://github.com/3371438472/tvbox/blob/1007ed9cbc07941c7407d241b41316184dfc56bf/eval-yang.txt",
+      "url": ".eval-yang.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
