@@ -1,4 +1,6 @@
 {
+  "sits":[
+  {
   "key": "php_madou",
   "name": "麻豆(T4)",
   "type": 4,
@@ -8,4 +10,6 @@
   "filterable": 0,
   "changeable": 0,
   "style": {"type": "rect", "ratio": 1.5}
+    }
+  ]
 }
